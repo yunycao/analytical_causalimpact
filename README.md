@@ -6,7 +6,7 @@ Samples scripts from econometrics course. Methods cover:
 4. Propensity score matching
 5. Chi-squared Automatic Interaction Detection (CHAID)
  
-Packages covered:
+Packages include:
 1. `tfcausalimpact`
 2. `causalml`
 3. `CHAID`
