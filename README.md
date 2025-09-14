@@ -7,14 +7,14 @@ Samples scripts from econometrics course. Methods cover:
 5. Chi-squared Automatic Interaction Detection (CHAID)
  
 Packages covered:
-1. tfcausalimpact
-2. causalml
-3. CHAID
-4. statsmodels
-5. sklearn
+1. `tfcausalimpact`
+2. `causalml`
+3. `CHAID`
+4. `statsmodels`
+5. `sklearn`
 
 Additional work that is not covered:
-econML is another package for causal inference. The package can help analyze marginal effect on conversion for each incremental impression. Sample is not covered here but it is used at work. 
+`econML` is another package for causal inference. The package can analyze marginal effect on conversion for each incremental impression. Sample is not covered here but it is used at work. 
 
 When to Use Causal Inference Methods
 Choosing the appropriate causal inference method is critical for accurate analysis. The decision is driven by the data structure, research question, and underlying assumptions.
