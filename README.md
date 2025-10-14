@@ -16,7 +16,8 @@ Packages include:
 Additional work that is not covered:
 `econML` is another package for causal inference. The package can analyze marginal effect on conversion for each incremental impression. Sample is not covered here but it is used at work. 
 
-When to Use Causal Inference Methods
+When to Use Causal Inference Methods?
+
 Choosing the appropriate causal inference method is critical for accurate analysis. The decision is driven by the data structure, research question, and underlying assumptions.
 
 **Difference-in-Differences (DiD)**
