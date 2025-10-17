@@ -14,7 +14,7 @@ Packages include:
 5. `sklearn`
 
 Additional work that is not covered:
-`econML` is another package for causal inference. The package can analyze marginal effect on conversion for each incremental impression. Sample is not covered here but it is used at work. 
+`econML` is another package for causal inference. The package can analyze marginal effect on key metrics for incremental impressions. Sample is not covered here but it is used at work. 
 
 When to Use Causal Inference Methods?
 
